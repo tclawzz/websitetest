@@ -1,0 +1,1 @@
+refresh && mkdir -p images/logo && curl "YOUR_URL" > images/logo/tombofthemask.png

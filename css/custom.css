@@ -1,0 +1,43 @@
+/* Search Bar Styles */
+.search-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    padding: 8px 15px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    outline: none;
+    width: 200px;
+    transition: width 0.3s ease;
+}
+
+.search-input:focus {
+    width: 250px;
+    border-color: #4CAF50;
+}
+
+.search-button {
+    position: absolute;
+    right: 10px;
+    background: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* For mobile responsiveness */
+@media (max-width: 992px) {
+    .search-container {
+        margin: 10px 0;
+        width: 100%;
+    }
+    .search-input {
+        width: 100%;
+    }
+    .search-input:focus {
+        width: 100%;
+    }
+}
