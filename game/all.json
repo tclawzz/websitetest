@@ -167,8 +167,111 @@
         "url": "https://tcaw-games.glitch.me/dta6.html",
         "img": "dta6.png",
         "order": 22
+    },
+  {
+        "slug": "eagle-ride-3d",
+        "title": "Eagle Ride 3D",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/eagle-ride-3d.html",
+        "img": "eagleride3d.png",
+        "order": 23
+    },
+  {
+        "slug": "geometry-dash",
+        "title": "Geometry Dash",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/geometry-dash.html",
+        "img": "geometry-dash.png",
+        "order": 24
+    },
+   {
+        "slug": "moto-x3m",
+        "title": "Moto X3M",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/moto-x3m.html",
+        "img": "moto-x3m.png",
+        "order": 25
+    },
+   {
+        "slug": "escape-road",
+        "title": "Escape Road",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/escape-road.html",
+        "img": "escape-road.png",
+        "order": 26
+    },
+     {
+        "slug": "slope-2",
+        "title": "Slope 2",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/slope-2.html",
+        "img": "slope-2.png",
+        "order": 27
+    },
+       {
+        "slug": "slope-3",
+        "title": "Slope 3",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/slope-3.html",
+        "img": "slope-3.png",
+        "order": 28
+    },
+         {
+        "slug": "flappy-bird",
+        "title": "Flappy Bird",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/flappy-bird.html",
+        "img": "flappy-bird.png",
+        "order": 29
+    },
+        {
+        "slug": "baseball-bros",
+        "title": "Baseball Bros",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/baseball-bros.html",
+        "img": "baseball-bros.png",
+        "order": 30
+    },
+        {
+        "slug": "1v1-lol",
+        "title": "1v1 LOL",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/1v1-lol.html",
+        "img": "1v1-lol.png",
+        "order": 31
+    },
+        {
+        "slug": "stickman-hook",
+        "title": "Stickman Hook",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/stickman-hook.html",
+        "img": "stickman-hook.png",
+        "order": 32
+    },
+    {
+        "slug": "monkey-mart",
+        "title": "Monkey Mart",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/monkey-mart.html",
+        "img": "monkey-mart.png",
+        "order": 33
+    },
+  {
+        "slug": "bitlife",
+        "title": "Bitlife - Life Simulator",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/bitlife.html",
+        "img": "bitlife.png",
+        "order": 34
+    },
+  {
+        "slug": "crossy-road",
+        "title": "Crossy Road",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/crossy-road.html",
+        "img": "crossy-road.png",
+        "order": 35
     }
-
 
 
 
