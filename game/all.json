@@ -1,0 +1,279 @@
+[
+    {
+        "slug": "run-3",
+        "title": "Run 3",
+        "cat": "New",
+        "url": "https://player03.com/run/3/beta/",
+        "img": "Run-3.jpg",
+        "order": 2
+    },
+    {
+        "slug": "smash-karts",
+        "title": "Smash Karts",
+        "cat": "New",
+        "url": "https://smashkarts.io/",
+        "img": "smash-karts.png",
+        "order": 3
+    },
+    {
+        "slug": "g-switch-3",
+        "title": "G-Switch 3",
+        "cat": "New",
+        "url": "https://www.twoplayergames.org/embed/g-switch-3",
+        "img": "G-Switch-3.png",
+        "order": 4
+    },
+    {
+        "slug": "slope-game",
+        "title": "Slope Game",
+        "cat": "New",
+        "url": "https://kdata1.com/2020/05/slope/",
+        "img": "Slope-Game.jpg",
+        "order": 5
+    },
+    {
+        "slug": "house-of-hazards",
+        "title": "House Of Hazards",
+        "cat": "New",
+        "url": "https://kdata1.com/2020/10/House_of_Hazards/",
+        "img": "house-of-hazards.jpg",
+        "order": 6
+    },
+    {
+        "slug": "death-run-3D",
+        "title": "Death Run 3D",
+        "cat": "New",
+        "url": "https://kdata1.com/y8/embed.php?link=https://storage.y8.com/y8-studio/unity/joll/death_run_builds/death_run_wasm_v1/index.html?ratio_tolerant=true&w=960&h=635",
+        "img": "death-run-3d.jpg",
+        "order": 7
+    },
+    {
+        "slug": "two-punk-racing-2",
+        "title": "Two Punk Racing 2",
+        "cat": "New",
+        "url": "https://www.twoplayergames.org/embed/two-punk-racing-2",
+        "img": "Two-Punk-Racing-2.jpg",
+        "order": 8
+    },
+    {
+        "slug": "helix-jump-advance",
+        "title": "Helix Jump Advance",
+        "cat": "New",
+        "url": "https://kdata1.com/2019/03/helix-jump-advance/",
+        "img": "Helix-Jump-Advance.png",
+        "order": 9
+    },
+    {
+        "slug": "doodle-jump",
+        "title": "Doodle Jump",
+        "cat": "New",
+        "url": "https://kdata1.com/2020/02/doodle-jump-new-en-s-iga-cloud/",
+        "img": "Doodle-Jump.jpg",
+        "order": 10
+    },
+    {
+        "slug": "color-tunnel",
+        "title": "Color Tunnel",
+        "cat": "New",
+        "url": "https://f.kbhgames.com/2018/01/color-tunnel/",
+        "img": "color-tunnel.png",
+        "order": 11
+    },
+    {
+        "slug": "temple-run-2",
+        "title": "Temple Run 2",
+        "cat": "New",
+        "url": "https://archive777.com/Temple%20Run/Temple%20Run%202%20Game/",
+        "img": "Temple-Run-2.jpg",
+        "order": 12
+    },
+    {
+        "slug": "papas-freezeria",
+        "title": "Papa's Freezeria",
+        "cat": "New",
+        "url": "https://flashstorage.games/embed/papas-freezeria?",
+        "img": "Papas-Freezeria.jpg",
+        "order": 13
+    },
+   {
+        "slug": "tiny-fishing",
+        "title": "Tiny Fishing",
+        "cat": "New",
+        "url": "https://legalizenuclearbombs5.github.io/games/Tiny%20Fishing",
+        "img": "tinyfishing.jpeg",
+        "order": 14
+    },
+    {
+        "slug": "drive-mad",
+        "title": "Drive Mad",
+        "cat": "New",
+        "url": "https://geography-lesson.net/_games/drive-mad/",
+        "img": "drive-mad.jpeg",
+        "order": 15
+    },
+  {
+        "slug": "tomb-of-the-mask",
+        "title": "Tomb Of The Mask",
+        "cat": "New",
+        "url": "https://geography-lesson.net/_games/drive-mad/",
+        "img": "tombofthemask.png",
+        "order": 16
+    },
+
+  {
+        "slug": "tap-road",
+        "title": "Tap Road",
+        "cat": "New",
+        "url": "https://azgames.io/game/tap-road/",
+        "img": "tap-road.png",
+        "order": 17
+    },
+   {
+        "slug": "subway-surfers",
+        "title": "Subway Surfers - Zurich",
+        "cat": "New",
+        "url": "https://azgames.io/game/tap-road/",
+        "img": "Subway-Surfers.jpg",
+        "order": 18
+    },
+     {
+        "slug": "wave-road",
+        "title": "Wave Road",
+        "cat": "New",
+        "url": "https://azgames.io/game/tap-road/",
+        "img": "wave-road.png",
+        "order": 19
+    },
+   {
+        "slug": "fnaf",
+        "title": "Five Nights At Freddy's",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/fnaf.html",
+        "img": "fnaf.png",
+        "order": 20
+    },
+   {
+        "slug": "fnaf2",
+        "title": "Five Nights At Freddy's 2",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/fnaf2.html",
+        "img": "fnaf2.png",
+        "order": 21
+    },
+  {
+        "slug": "dta6",
+        "title": "DTA 6",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/dta6.html",
+        "img": "dta6.png",
+        "order": 22
+    },
+  {
+        "slug": "eagle-ride-3d",
+        "title": "Eagle Ride 3D",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/eagle-ride-3d.html",
+        "img": "eagleride3d.png",
+        "order": 23
+    },
+  {
+        "slug": "geometry-dash",
+        "title": "Geometry Dash",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/geometry-dash.html",
+        "img": "geometry-dash.png",
+        "order": 24
+    },
+   {
+        "slug": "moto-x3m",
+        "title": "Moto X3M",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/moto-x3m.html",
+        "img": "moto-x3m.png",
+        "order": 25
+    },
+   {
+        "slug": "escape-road",
+        "title": "Escape Road",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/escape-road.html",
+        "img": "escape-road.png",
+        "order": 26
+    },
+     {
+        "slug": "slope-2",
+        "title": "Slope 2",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/slope-2.html",
+        "img": "slope-2.png",
+        "order": 27
+    },
+       {
+        "slug": "slope-3",
+        "title": "Slope 3",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/slope-3.html",
+        "img": "slope-3.png",
+        "order": 28
+    },
+         {
+        "slug": "flappy-bird",
+        "title": "Flappy Bird",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/flappy-bird.html",
+        "img": "flappy-bird.png",
+        "order": 29
+    },
+        {
+        "slug": "baseball-bros",
+        "title": "Baseball Bros",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/baseball-bros.html",
+        "img": "baseball-bros.png",
+        "order": 30
+    },
+        {
+        "slug": "1v1-lol",
+        "title": "1v1 LOL",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/1v1-lol.html",
+        "img": "1v1-lol.png",
+        "order": 31
+    },
+        {
+        "slug": "stickman-hook",
+        "title": "Stickman Hook",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/stickman-hook.html",
+        "img": "stickman-hook.png",
+        "order": 32
+    },
+    {
+        "slug": "monkey-mart",
+        "title": "Monkey Mart",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/monkey-mart.html",
+        "img": "monkey-mart.png",
+        "order": 33
+    },
+  {
+        "slug": "bitlife",
+        "title": "Bitlife - Life Simulator",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/bitlife.html",
+        "img": "bitlife.png",
+        "order": 34
+    },
+  {
+        "slug": "crossy-road",
+        "title": "Crossy Road",
+        "cat": "New",
+        "url": "https://tcaw-games.glitch.me/crossy-road.html",
+        "img": "crossy-road.png",
+        "order": 35
+    }
+
+
+
+
+]

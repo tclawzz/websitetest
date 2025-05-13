@@ -1,0 +1,10 @@
+refresh && mkdir -p images/logo && curl "YOUR_URL" > images/logo/tombofthemask.png
+
+refresh && mkdir -p images/logo && curl "https://cdn.glitch.global/e2dab6ae-b52c-4720-8886-3f9d99995e26/8c1c664c-9380-4a94-ba7d-7ceb16efbab0.image.png?v=1746844294946" > images/logo/retro-bowl.png
+
+
+
+
+
+
+
